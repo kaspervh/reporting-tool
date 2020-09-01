@@ -5,3 +5,13 @@
 .MuiSvgIcon-root{
   color: lightgray;
 }
+
+.MuiPaper-elevation1{
+  box-shadow: none !important;
+}
+
+.MuiPaper-root{
+  box-shadow: none;
+}
+
+.MuiPaper-rounded{border-radius: 0px !important;}
